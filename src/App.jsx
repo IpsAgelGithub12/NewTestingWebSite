@@ -45,7 +45,7 @@ function App() {
           onClick={() => setTitleName(inputFName)}
           className="text-white font-bold bg-blue-950 px-2 py-2 mt-3 rounded hover:bg-blue-700"
         >
-          Click Me!
+          Click Me Now!
         </button>
 
         <div className="mt-5 flex flex-col sm:flex-row justify-center items-center gap-2  ">
